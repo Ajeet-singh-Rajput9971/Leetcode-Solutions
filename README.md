@@ -71,7 +71,7 @@ Solutions are organized by **DSA topic** to make the repository easy to navigate
 
 | Topic                    | Problems Solved |
 | ------------------------ | --------------: |
-| Arrays                   |               2 |
+| Arrays                   |               3 |
 | Strings                  |               0 |
 | Linked Lists             |               0 |
 | Stack & Queue            |               0 |
@@ -107,15 +107,3 @@ I believe consistency is more important than simply solving a large number of pr
 ---
 
 ⭐ If you find this repository useful, feel free to star it!
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/Ajeet-singh-Rajput9971/Leetcode-Solutions/tree/master/0027-remove-element) |
-## Two Pointers
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/Ajeet-singh-Rajput9971/Leetcode-Solutions/tree/master/0027-remove-element) |
-<!---LeetCode Topics End-->
